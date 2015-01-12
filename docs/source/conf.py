@@ -43,8 +43,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'python_speech_features'
-copyright = u'2013, James Lyons'
+project = 'python_speech_features'
+copyright = '2013, James Lyons'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -178,8 +178,8 @@ htmlhelp_basename = 'python_speech_featuresdoc'
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-  ('index', 'python_speech_features.tex', u'python\\_speech\\_features Documentation',
-   u'James Lyons', 'manual'),
+  ('index', 'python_speech_features.tex', 'python\\_speech\\_features Documentation',
+   'James Lyons', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
